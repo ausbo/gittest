@@ -2,7 +2,7 @@
 
 $hostname = "127.0.1";
 $user = "ryan";
-$password = "felix123";
+$password = "";
 $dbname = "firstdatabase";
 
 // Connect to database
