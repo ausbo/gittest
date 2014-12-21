@@ -11,7 +11,7 @@ if(!$dbConnected) {
 	// Return Failure Message If Connection Failed
 	echo "failed: " . mysql_error();
 } else {
-	// Return Success Message If Connection Succeeded
+	// Return Success Message If Connection Succeeded ddd
 	echo "Successfully connected to " . $dbname . ".";
 }
 
